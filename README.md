@@ -9,8 +9,4 @@ Aplikasi web berbasis Python untuk memantau ketersediaan ruang kelas kosong, mej
 - Rameyza Elya Nayla SA (2606748875)
 
 
-## Cara Menjalankan Proyek
-1. Clone repository ini:
-   ```bash
-   git clone [https://github.com/jonathan-bhu/Tugas-Kelompok15-DDP1.git](https://github.com/jonathan-bhu/Tugas-Kelompok15-DDP1.git)
-   cd Tugas-Kelompok15-DDP1
+
