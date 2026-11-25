@@ -6,7 +6,7 @@ Aplikasi web berbasis Python untuk memantau ketersediaan ruang kelas kosong, mej
 ## Anggota Kelompok
 - Mathew Jonan Habonaran Sinaga (2606806572)
 - Jonathan Bryan Hu (2606887853)
-- Nama Anggota 3 (NPM)
+- Rameyza Elya Nayla SA (2606748875)
 
 
 ## Cara Menjalankan Proyek
