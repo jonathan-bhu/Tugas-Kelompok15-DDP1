@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# File sistem OS (macOS & Windows)
+.DS_Store
+Thumbs.db
+
+# File model AI YOLO (ukurannya besar)
+*.pt
+
+# File rahasia / API key
+.env
